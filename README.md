@@ -1,8 +1,9 @@
-#White color theme for Skillenza..
+#
+White color theme for Skillenza..
 
-#Languages used: 
+Languages used: 
 
-#1. Html5
+1. Html5
 2. css3
 3. Bootstrap
 4. Javascript
