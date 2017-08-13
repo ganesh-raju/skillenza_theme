@@ -15,8 +15,38 @@ Features:
 2. Scrolling
 3. Animation
 4. Simple validation
-5. Scroll TOp
+5. Scroll Top
 
 
 Image credits: pixabay.com
+
+1. white color landing page. It having diffent sections like about, how it eorks, team, contact and footer.
+
+2. Animation: Scrolling created with jquery plugin called scrollreveal.
+   scrollreveal provide some nice animated features.
+
+   how: step 1. call the plugin with a syntaxt
+
+                ( window.sr = ScrollReveal(); ).
+
+        step 2. Add ids to class for animate particular divs
+
+        step 3. Add simple animate techniques like delay, origin( animate  f
+                rom left, right, bottom and top), viewFactor( animate elements when you browse particular sections).
+
+3. Scrolling: Bootstrap scrolling feature. When click on nav bar elements  
+        
+        it move particulars sections ( it must be match with ids ).
+
+        ex: href="#about" - > <section id="about"></section> 
+
+5. Simpe html5 validation
+
+6. Scroll Top feature.
+   
+         
+
+
+
+
 
