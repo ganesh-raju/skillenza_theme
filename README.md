@@ -61,3 +61,11 @@ Image credits: pixabay.com
          /* styles */
         } 
 
+   Navbar: Fixed at top position
+
+        ex: class="navabar-fixed-top"
+
+    Icons: fontawesome icons in footer (facebook, twitter, google+ icons )
+
+         ex: <i class="fa fa-facebook"></i>
+
