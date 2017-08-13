@@ -1,0 +1,109 @@
+body {
+    overflow-x: hidden;
+    letter-spacing: 0.05em;
+
+}
+ul{
+    list-style: none;
+}
+
+h2{
+
+    color: rebeccapurple !important;
+}
+.navbar-header img{
+        margin-top: -64px;
+}
+#home_page .jumbotron{
+    height: 650px;
+    background-color: #fff !important;
+}
+
+.navbar-default {
+    background-color: #fff !important;
+    border-color: #e7e7e7;
+}
+
+.nav>li>#navbar_border {
+    border: 1px solid #333;
+    border-radius: 5px;
+    padding: 0px 10px 0px 10px;
+    color: black;
+}
+
+.nav>li>#navbar_border:focus,
+.nav>li>#navbar_border:hover {
+    border: 1px solid rebeccapurple;
+    color: royalblue;
+    background-color: #fff;
+}
+
+.nav>li>a {
+    padding: 5px 10px 5px 10px !important;
+    color: #333;
+}
+.navbar-default .navbar-nav>li>a:hover {
+    color: rebeccapurple !important;
+}
+
+.navbar-header .navbar-brand {
+    color: rebeccapurple !important;
+}
+
+nav li {
+    padding: 10px;
+}
+
+.jumbotron .jumbo_text{
+margin-top: 100px;
+}
+
+#info_site{
+    background-color: #f6f9fc;
+    padding: 50px;
+    line-height: 30px;
+}
+#team img{
+   border: 1px solid #f1f1f1;
+}
+#team #meet_team
+{
+    margin: 40px 0px 40px 0px;
+}
+
+
+/*  documents required */
+.doc_text ul li{
+  padding: 10px 0px 10px 0px;
+  color: #fff;
+}
+
+/* End documents required */
+.panel-default>.panel-heading {
+    color: #333;
+     background-color: #fff !important; 
+    border-color: #fff !important; 
+}
+.btn-primary{
+    background-color:rebeccapurple !important;
+}
+
+/* input focus */
+input:focus {
+    background-color: #f6f9fc; 
+    border: 1px solid white !important;
+}
+textarea:focus{
+     background-color: #f6f9fc; 
+    border: 1px solid white !important;
+}
+form{
+    padding: 20px 0px 50px 0px;
+}
+form .form-group{
+   padding: 5px 0px 5px 0px;
+}
+section #how_works{
+    padding: 20px;
+    margin: 40px 0px 40px 0px;
+}
