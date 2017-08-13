@@ -16,6 +16,7 @@ Features:
 3. Animation
 4. Simple validation
 5. Scroll Top
+6. other features....
 
 
 Image credits: pixabay.com
@@ -44,9 +45,19 @@ Image credits: pixabay.com
 
 6. Scroll Top feature.
    
-         
+         When onclick scroll moves top of the browser. Developed with javascript.
 
+         onclick event added in srolltop div.
 
+         When on click it moves to top of the page. where height is 0 px.
 
+         ex: 
+          window.scrollBy(0,-50);
+          timeOut=setTimeout('scrollToTop()',10);
 
+7. forms: focus css property
+   
+        ex: input:focus{
+         /* styles */
+        } 
 
